@@ -1,4 +1,4 @@
-module github.com/adriannbhp/gis-backendd
+module github.com/adriannbhp/gisbackend
 
 go 1.21.3
 
