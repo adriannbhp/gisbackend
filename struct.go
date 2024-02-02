@@ -64,7 +64,7 @@ type FullGeoJson struct {
 }
 
 type Properties struct {
-	Name string `json:"name" bson:"name"`
+	Name string `json:"Name" bson:"Name"`
 }
 
 type GeoJsonPoint struct {
